@@ -1,59 +1,59 @@
+# 🧈 Butter Payments
 
-![tw-banner](https://github.com/thirdweb-example/next-starter/assets/57885104/20c8ce3b-4e55-4f10-ae03-2fe4743a5ee8)
+A modern wallet experience designed for smooth, low-cost transactions.  
+No confusing wallet popups. No gas fee anxiety. Just fast, simple payments that feel like magic.
 
-# thirdweb-next-starter
+---
 
-Starter template to build an onchain react native app with [thirdweb](https://thirdweb.com/) and [next](https://nextjs.org/).
+## 🚀 No Gas Fees, No Problem
 
-## Installation
+Butter keeps your transactions off expensive bank or blockchain rails when possible.  
+That means lightning-fast payments **without burning money on every click**.
 
-Install the template using [thirdweb create](https://portal.thirdweb.com/cli/create)
+---
 
-```bash
-  npx thirdweb create app --next
-```
+## 🔐 Secure Without the Hassle
 
-## Environment Variables
+Say goodbye to awkward wallet connect popups.  
+With Butter, your identity and balances are managed seamlessly — no need to confirm every little move.
 
-To run this project, you will need to add the following environment variables to your .env file:
+---
 
-`CLIENT_ID`
+## 🔁 Instant Peer-to-Peer Transfers
 
-To learn how to create a client ID, refer to the [client documentation](https://portal.thirdweb.com/typescript/v5/client). 
+Send or receive payments instantly — no waiting, no approvals.  
+Whether you’re **splitting lunch** or **paying rent**, it just works.
 
-## Run locallycool jo
+---
 
-Install dependencies
+## 📲 Frictionless Onboarding
 
-```bash
-yarn
-```
+New to Web3? Doesn’t matter.  
+Butter feels like a regular wallet app — intuitive, simple, and made for real people.
 
-Start development server
+---
 
-```bash
-yarn dev
-```
+## 🧠 Smart Transactions, Not Just Transfers
 
-Create a production build
+Butter supports programmable payments, recurring transfers, and logic-based flows.  
+More than money movement — it’s **financial automation**.
 
-```bash
-yarn build
-```
+---
 
-Preview the production build
+## 💼 Built for Builders
 
-```bash
-yarn start
-```
+Butter isn’t just a wallet — it’s a platform.  
+Integrate Butter into your app with simple APIs and make payments **invisible to your users**.
 
-## Resources
+---
 
-- [Documentation](https://portal.thirdweb.com/typescript/v5)
-- [Templates](https://thirdweb.com/templates)
-- [YouTube](https://www.youtube.com/c/thirdweb)
-- [Blog](https://blog.thirdweb.com)
+## 🌍 Global & Inclusive
 
-## Need help?
+No cards? No bank? No problem.  
+Butter is designed to work for **anyone with a smartphone and an internet connection**.
 
-For help or feedback, please [visit our support site](https://thirdweb.com/support)
+---
+
+### 📎 License
+
+MIT © [SundownRises](https://github.com/SundownRises)
